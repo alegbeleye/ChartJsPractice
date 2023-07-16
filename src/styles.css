@@ -1,0 +1,11 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.lineGraph {
+  background-color: rgb(255, 192, 202);
+  border-radius: 10px;
+  padding: 20px;
+  color: white;
+}
